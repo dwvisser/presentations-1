@@ -4,6 +4,10 @@ See below for an overview of KnoxPy presentations organized by year.
 
 Presenters: please follow the [contribution guidelines](CONTRIBUTING.md) to submit your talk to this repository.
 
+## 2019
+
+**Open Source Extravaganze** by [Dale Visser](https://github.com/dwvisser). [PDF](2019/dwvisser-OpenSource-Extravaganza.pdf)
+
 ## 2018
 
 **Scraping with Selenium** by Gavin Wiggins. [URL](https://slides.com/wigging/selenium)
